@@ -11,9 +11,6 @@
 - 향후 유형에 익숙해지면 고난이도 문제를 집중적으로 풀이합니다.
 
 
-https://www.acmicpc.net/problem/12015
-
-
 
 ## Study규칙
 - **자신의이름/n주차** 의 git branch를 만들어 작업합니다. ex)teawon/3weeks
