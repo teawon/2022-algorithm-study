@@ -4,7 +4,14 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
-
+/*
+ * 문제 주소 :  https://www.acmicpc.net/problem/14916
+ *
+ * 문제 접근 방법 & 사용 알고리즘:
+ *  그리디 알고리즘을 사용
+ *  5원으로 n을 나누어서 나머지가 없을 때 까지 2원을 n에서 빼줌
+ *  -1인 경우가 3,1 두가지 경우 일때 뿐 이라서 예외 처리
+ */
 public class Greedy_14916 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
