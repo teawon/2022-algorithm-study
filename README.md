@@ -31,7 +31,7 @@
 ### 1. 유형익히기 (1 ~ N주차)
 | **주차** | **Tag**          | **문제 1**           | **문제 2**       |  **문제 3**       | **문제 4**  | **문제 5** | 
 | -------- | --------------- | ------------------  | --------------  | --------------- | ----------   | ------------|
-| 1주차    | greedy           |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈(14916)</a>            |    <a href="https://www.acmicpc.net/problem/11508" target="_black">2+1세일(11508)</a>            | <a href="https://www.acmicpc.net/problem/1931" target="_black">회의실(1931)</a> |  <a href="https://www.acmicpc.net/problem/2812" target="_black">크게 만들기(2812)</a> |      <a href="https://www.acmicpc.net/problem/12015" target="_black">가장 긴 증가하는 부분 수열 2(12015)</a>  
+| 1주차    | greedy           |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈(14916)</a>            |    <a href="https://www.acmicpc.net/problem/11508" target="_black">2+1세일(11508)</a>            | <a href="https://www.acmicpc.net/problem/1931" target="_black">회의실(1931)</a> |  <a href="https://www.acmicpc.net/problem/2812" target="_black">크게 만들기(2812)</a> |      <a href="https://www.acmicpc.net/problem/1202" target="_black">보석 도둑(1202)</a>  
 | 2주차    | -        |                     |    |                                             
 | 3주차    | -            |     |    |                                             
 | 4주차    | -              |     |    |              
