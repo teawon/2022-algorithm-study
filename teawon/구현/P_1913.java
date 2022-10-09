@@ -7,11 +7,8 @@ import java.io.*;
  * 문제 접근 방법 & 사용 알고리즘: 
  * 일단은 직관적으로 N*N의 배열을 만들고 4가지 방향으로 값이 있거나, 범위를 이탈하면 방향을 바꿔가며 값을 채워나가기
  * 
- * -> 시간 초과 발생
+ * -> 시간 초과 발생..  StringBuilder를 사용해서 해결
  */
-
-
-
 
 
 public class P_1913 {
@@ -66,7 +63,6 @@ public class P_1913 {
 
         System.out.println(++P_x + " " + ++P_y);
         
-
     
     }
     
