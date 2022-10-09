@@ -38,13 +38,14 @@
 ```
 
 
+
 ## 일정표
 ### 1. 유형익히기 (1 ~ N주차)
 | **주차** | **Tag**          | **문제 1**           | **문제 2**       |  **문제 3**       | **문제 4**  | **문제 5** | 
 | -------- | --------------- | ------------------  | --------------  | --------------- | ----------   | ------------|
 | 1주차    | greedy           |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈(14916)</a>            |    <a href="https://www.acmicpc.net/problem/11508" target="_black">2+1세일(11508)</a>            | <a href="https://www.acmicpc.net/problem/1931" target="_black">회의실(1931)</a> |  <a href="https://www.acmicpc.net/problem/2812" target="_black">크게 만들기(2812)</a> |      <a href="https://www.acmicpc.net/problem/1202" target="_black">보석 도둑(1202)</a>  
-| 2주차    | 구현       |                     |    |                                             
-| 3주차    | 구현            |     |    |                                             
+| 2주차    | 구현       |     <a href="https://www.acmicpc.net/problem/20546" target="_blank">기적의 매매법(20546)</a>                  |    <a href="https://www.acmicpc.net/problem/1913" target="_blank">달팽이(1913)</a>  |        <a href="https://www.acmicpc.net/problem/12933" target="_blank">오리(12933)</a>  |  <a href="https://www.acmicpc.net/problem/17276" target="_blank">배열 돌리기(17276)</a>  |  <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교(21608)</a>                                       
+| 3주차    | 구현            |      <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호(1475)</a>                  |    <a href="https://www.acmicpc.net/problem/10994" target="_blank">별찍기(10994)</a>  |        <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목(2615)</a>  |  <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물(14719)</a>  |  <a href="https://www.acmicpc.net/problem/22859" target="_blank">HTML파싱(22859)</a>                                                                              
 | 4주차    | DFS&BFS              |     |    |              
 | 5주차    | DFS&BFS               |     |    |      
 | 6주차    | DFS&BFS               |     |    |     
