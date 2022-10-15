@@ -17,10 +17,10 @@
 
 
 ## 참여 멤버
-|  | 정태원 | 임성한 | 박준혁 |
-| :---: | :---: | :---: | :---: |
-| GitHub |  [teawon](https://github.com/teawon)  | [seonghanIm](https://github.com/seonghanIm) |[JHPark02](https://github.com/JHPark02) |
-| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | 
+|  | 정태원 | 임성한 | 박준혁 | 김준형 |
+| :---: | :---: | :---: | :---: | :---: |
+| GitHub |  [teawon](https://github.com/teawon)  | [seonghanIm](https://github.com/seonghanIm) |[JHPark02](https://github.com/JHPark02) | [kimjunhyeong](https://github.com/junhyeongkim2)
+| Language | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"> | <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
 
 
 ## Study규칙
