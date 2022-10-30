@@ -14,8 +14,6 @@
 
 
 
-
-
 ## 참여 멤버
 |  | 정태원 | 임성한 | 박준혁 | 김준형 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -46,19 +44,18 @@
 | 1주차    | greedy           |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈(14916)</a>            |    <a href="https://www.acmicpc.net/problem/11508" target="_black">2+1세일(11508)</a>            | <a href="https://www.acmicpc.net/problem/1931" target="_black">회의실(1931)</a> |  <a href="https://www.acmicpc.net/problem/2812" target="_black">크게 만들기(2812)</a> |      <a href="https://www.acmicpc.net/problem/1202" target="_black">보석 도둑(1202)</a>  
 | 2주차    | 구현       |     <a href="https://www.acmicpc.net/problem/20546" target="_blank">기적의 매매법(20546)</a>                  |    <a href="https://www.acmicpc.net/problem/1913" target="_blank">달팽이(1913)</a>  |        <a href="https://www.acmicpc.net/problem/12933" target="_blank">오리(12933)</a>  |  <a href="https://www.acmicpc.net/problem/17276" target="_blank">배열 돌리기(17276)</a>  |  <a href="https://www.acmicpc.net/problem/21608" target="_blank">상어 초등학교(21608)</a>                                       
 | 3주차    | 구현            |      <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호(1475)</a>                  |    <a href="https://www.acmicpc.net/problem/10994" target="_blank">별찍기(10994)</a>  |        <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목(2615)</a>  |  <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물(14719)</a>  |  <a href="https://www.acmicpc.net/problem/22859" target="_blank">HTML파싱(22859)</a>                                                                              
-| 4주차    | DFS&BFS              |     |    |              
-| 5주차    | DFS&BFS               |     |    |      
-| 6주차    | DFS&BFS               |     |    |     
-| 7주차    | 정렬              |     |    |        
-| 8주차    | 정렬              |     |    |       
+| 4주차    | DFS&BFS              |     <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS(1260)</a>  |   <a href="https://www.acmicpc.net/problem/2178" target="_blank">미로 탐색(2178)</a> |    <a href="https://www.acmicpc.net/problem/3187" target="_blank">양치기꿍(3187)</a> | <a href="https://www.acmicpc.net/problem/14502" target="_blank">연구소(14502)</a> | <a href="https://www.acmicpc.net/problem/2573" target="_blank">빙산(2573)</a>         
+| 5주차    | DFS&BFS               | <a href="https://www.acmicpc.net/problem/1697" target="_blank"> 숨바꼭질(1697)</a>    | <a href="https://www.acmicpc.net/problem/2644" target="_blank">촌수계산(2644)</a>   |      <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기(2668)</a> |  <a href="https://www.acmicpc.net/problem/3109" target="_blank">빵집(3109)</a> | <a href="https://www.acmicpc.net/problem/16236" target="_blank">아기상어(16236)</a>  
+| 6주차    | 정렬              |     |    |        
+| 7주차    | 정렬              |     |    |       
+| 8주차    | 이진 탐색               |     |    |         
 | 9주차    | 이진 탐색               |     |    |         
-| 10주차    | 이진 탐색               |     |    |         
+| 10주차    | 다이나믹               |     |    |         
 | 11주차    | 다이나믹               |     |    |         
-| 12주차    | 다이나믹               |     |    |         
-| 13주차    | 최단 경로               |     |    |         
-| 14주차    | 최단 경로               |     |    |    
-| 15주차    | 그래프 이론               |     |    |  
-| 16주차    | 그래프 이론              |     |    |  
+| 12주차    | 최단 경로               |     |    |         
+| 13주차    | 최단 경로               |     |    |    
+| 14주차    | 그래프 이론               |     |    |  
+| 15주차    | 그래프 이론              |     |    |  
 
 
  ### 2. 고득점 문제풀이 (N ~ M주차) 
