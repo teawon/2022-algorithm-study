@@ -1,0 +1,14 @@
+//
+// Created by 김준형 on 2022/10/30.
+//
+
+#ifndef TECHEERALGORITHMSTUDY_P_10994_H
+#define TECHEERALGORITHMSTUDY_P_10994_H
+
+
+class P_10994 {
+
+};
+
+
+#endif //TECHEERALGORITHMSTUDY_P_10994_H
