@@ -11,12 +11,8 @@ import java.io.*;
 
 public class P_3187{
 
-    
-    public static int N;
-    public static int M;
     public static int[] dy = { -1 ,0, 1, 0 }; //위에부터 시계방향 검색
     public static int[] dx = {0, 1, 0, -1};
-    public static int min = 99999;
 
     public static class Node {
         int x;
