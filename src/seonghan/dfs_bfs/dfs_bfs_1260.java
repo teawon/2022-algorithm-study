@@ -5,7 +5,13 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
-
+/*
+ * 문제 주소 :  https://www.acmicpc.net/problem/1260
+ *
+ * 문제 접근 방법 & 사용 알고리즘: DFS,BFS
+ * 단순 BFS, DFS 구현
+ *
+ */
 public class dfs_bfs_1260 {
     static int N; //정점의 갯수
     static int M; //간선의 갯수
