@@ -13,7 +13,6 @@
 - 향후 유형에 익숙해지면 고난이도 문제를 집중적으로 풀이합니다.
 
 
-
 ## 참여 멤버
 |  | 정태원 | 임성한 | 박준혁 | 김준형 |
 | :---: | :---: | :---: | :---: | :---: |
@@ -38,7 +37,7 @@
 
 
 ## 일정표
-### 1. 유형익히기 (1 ~ N주차)
+### 1. 유형익히기 (1 ~ 15주차)
 | **주차** | **Tag**          | **문제 1**           | **문제 2**       |  **문제 3**       | **문제 4**  | **문제 5** | 
 | -------- | --------------- | ------------------  | --------------  | --------------- | ----------   | ------------|
 | 1주차    | greedy           |     <a href="https://www.acmicpc.net/problem/14916" target="_blank">거스름돈(14916)</a>            |    <a href="https://www.acmicpc.net/problem/11508" target="_black">2+1세일(11508)</a>            | <a href="https://www.acmicpc.net/problem/1931" target="_black">회의실(1931)</a> |  <a href="https://www.acmicpc.net/problem/2812" target="_black">크게 만들기(2812)</a> |      <a href="https://www.acmicpc.net/problem/1202" target="_black">보석 도둑(1202)</a>  
@@ -46,8 +45,8 @@
 | 3주차    | 구현            |      <a href="https://www.acmicpc.net/problem/1475" target="_blank">방 번호(1475)</a>                  |    <a href="https://www.acmicpc.net/problem/10994" target="_blank">별찍기(10994)</a>  |        <a href="https://www.acmicpc.net/problem/2615" target="_blank">오목(2615)</a>  |  <a href="https://www.acmicpc.net/problem/14719" target="_blank">빗물(14719)</a>  |  <a href="https://www.acmicpc.net/problem/22859" target="_blank">HTML파싱(22859)</a>                                                                              
 | 4주차    | DFS&BFS              |     <a href="https://www.acmicpc.net/problem/1260" target="_blank">DFS와 BFS(1260)</a>  |   <a href="https://www.acmicpc.net/problem/2178" target="_blank">미로 탐색(2178)</a> |    <a href="https://www.acmicpc.net/problem/3187" target="_blank">양치기꿍(3187)</a> | <a href="https://www.acmicpc.net/problem/14502" target="_blank">연구소(14502)</a> | <a href="https://www.acmicpc.net/problem/2573" target="_blank">빙산(2573)</a>         
 | 5주차    | DFS&BFS               | <a href="https://www.acmicpc.net/problem/1697" target="_blank"> 숨바꼭질(1697)</a>    | <a href="https://www.acmicpc.net/problem/2644" target="_blank">촌수계산(2644)</a>   |      <a href="https://www.acmicpc.net/problem/2668" target="_blank">숫자고르기(2668)</a> |  <a href="https://www.acmicpc.net/problem/3109" target="_blank">빵집(3109)</a> | <a href="https://www.acmicpc.net/problem/16236" target="_blank">아기상어(16236)</a>  
-| 6주차    | 정렬              |     |    |        
-| 7주차    | 정렬              |     |    |       
+| 6주차    | 정렬              |  <a href="https://www.acmicpc.net/problem/11652" target="_blank">카드(11652)</a>      |   <a href="https://www.acmicpc.net/problem/1449" target="_blank">수리공 항승(1449)</a>   |        <a href="https://www.acmicpc.net/problem/1946" target="_blank">신입사원(1946)</a>   | <a href="https://www.acmicpc.net/problem/22945" target="_blank">팀빌딩(22945)</a>   | <a href="https://www.acmicpc.net/problem/13334" target="_blank">철로(13334)</a>  
+| 7주차    | 정렬              |  <a href="https://www.acmicpc.net/problem/1920" target="_blank">수 찾기(1920)</a>      |   <a href="https://www.acmicpc.net/problem/1448" target="_blank">삼각형 만들기(1448)</a>   |        <a href="https://www.acmicpc.net/problem/17503" target="_blank">맥주축제(17503)</a>   | <a href="https://www.acmicpc.net/problem/5052" target="_blank">전화번호 목록(5052)</a>   | <a href="https://www.acmicpc.net/problem/1838" target="_blank">버블정렬(1838)</a>     
 | 8주차    | 이진 탐색               |     |    |         
 | 9주차    | 이진 탐색               |     |    |         
 | 10주차    | 다이나믹               |     |    |         
@@ -58,7 +57,7 @@
 | 15주차    | 그래프 이론              |     |    |  
 
 
- ### 2. 고득점 문제풀이 (N ~ M주차) 
+ ### 2. 고득점 문제풀이 (16 ~ M주차) 
 | **주차** | **Tag**          | **문제 1**                          | **문제 2**                   |  **문제 3**      | **문제 4(Hard)**  
 | -------- | ----------------- | ------------------- | --------------------- | --------------- | ---------- | 
 | 주차    |          |  | |                   
