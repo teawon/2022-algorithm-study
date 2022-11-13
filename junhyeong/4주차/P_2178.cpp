@@ -16,7 +16,7 @@ int y_dir[4]={0,0,-1,1};
 
 queue<pair<int,int>>q;
 
-void dfs(int x_start,int y_start){
+void bfs(int x_start,int y_start){
     q.push(make_pair(x_start,y_start));
     visited[x_start][y_start]=1;
     dist[x_start][y_start]++;
@@ -51,6 +51,6 @@ int main(){
         }
     }
 
-    dfs(0,0);
+    bfs(0,0);
     cout << dist[N-1][M-1];
 }
