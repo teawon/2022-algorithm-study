@@ -1,50 +1,51 @@
-//
-// Created by 김준형 on 2022/11/13.
-//
-
-
 #include <iostream>
-#include <queue>
 using namespace std;
-int n, k;
-bool visit[100001];
 
-int dx[3]={1,-1,2};
+int R , C;
+int visited[10001][501];
+char graph[10001][501];
 
-void bfs(int a){
-    queue<pair<int, int>> q;
-    q.push(make_pair(a, 0));
-    while(!q.empty()){
-        int x = q.front().first;
-        int cnt = q.front().second;
-        q.pop();
-        if(x==k){
-            cout << cnt;
-            break;
-        }
+int dx[] = {-1,0,1};
+int dy[] = {1,1,1};
+int cnt=0;
+bool check = false;
+void dfs(int sx, int sy) {
 
-        for(int i=0 ; i<3; i++){
-            int nx = 0;
-            if(i<2){
-                nx = x + dx[i];
-            }else{
-                nx = x*dx[i];
+    visited[sx][sy] = 1;
+
+    if(sy == C-1){
+        //cout << "arived" << " " << cnt << "\n";
+        //cout << sx <<" " << sy <<"\n";
+        cnt++;
+        check = true;
+    }
+
+    for(int i = 0 ; i < 3; i++){
+        int nx = dx[i] + sx;
+        int ny = dy[i] + sy;
+        if(visited[nx][ny]==0&&nx>=0&&ny>=0&&nx<R&&ny<C&&graph[nx][ny]=='.'){
+            dfs(nx,ny);
+            if(check == true){
+                return;
             }
-            if(nx>=0&&nx<100001){
-                if(!visit[nx]){
-                    visit[nx]=true;
-                    q.push(make_pair(nx,cnt+1));
-                }
-            }
-
-
         }
-
     }
 }
+
 int main(){
-    cin >> n >> k;
-    visit[n] = true;
-    bfs(n);
-    return 0;
+    cin >> R >> C;
+
+    for(int i = 0 ; i < R;i++){
+        string s ;
+        cin >> s;
+        for(int j = 0 ; j<C;j++){
+            graph[i][j] = s[j];
+        }
+    }
+    for(int i = 0 ; i<R;i++){
+        dfs(i,0);
+        check=false;
+    }
+    cout << cnt<<"\n";
+
 }
