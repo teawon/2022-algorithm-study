@@ -9,6 +9,11 @@ import java.io.*;
  *  [https://www.acmicpc.net/board/view/84475]
  * - 모든 값을 탐색하는 방법 -> 이진탐색을 사용하기
  * 
+ * - 여기서도 구하려는 값이 정답이더라도 "q^2 > n"을 만족하는 더 작은 n이 있을 수 있기 때문에 더 왼쪽 범위를 탐색하게 되고 , start가 다시 오른쪽을 이동하며 끝난다.
+ *  따라서 여기에서는 start를 return 해야한다.
+ * 
+ *  ex) n=3 이라면 0 3 -> 2 3 -> 2 1  , 여기서 start인 2 return
+ * 
 */
 
 public class P_2417 {
@@ -32,7 +37,7 @@ public class P_2417 {
         if (Math.pow(mid, 2) < N) {
             return find(mid + 1, end);
         }
-        return find(start, mid);
+        return find(start, mid - 1);
 
     }
 }
