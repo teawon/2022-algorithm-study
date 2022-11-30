@@ -30,7 +30,7 @@ public class P_2417 {
     public static Long find(Long start, Long end) {
         Long mid = (start + end) / 2;
 
-        if (start >= end) {
+        if (start > end) {
             return start;
         }
 
