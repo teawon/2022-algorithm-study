@@ -7,11 +7,9 @@
 #include <vector>
 using namespace std;
 
-
 vector<long long>tree;
 
 long long  N , M ;
-
 
 int main(){
 
