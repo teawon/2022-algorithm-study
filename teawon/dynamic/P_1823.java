@@ -2,8 +2,8 @@ import java.util.*;
 import java.io.*;
 
 /*
- * 문제 주소 :  https://www.acmicpc.net/problem/1912
- *  22576KB | 272ms
+ * 문제 주소 :  https://www.acmicpc.net/problem/1823
+ *  30864KB | 180ms
  * 문제 접근 방법 & 사용 알고리즘: 
  * 값이 클 수록 나중에 베어야 한다. 그런데 만약 9 8 1 1 10 이라면? 큰 수인 10을 먼저배고 왼쪽부터 자르는 순서가 정답일 수도 있다.
  * -> 내부 데이터를 확인하기전에는 알 수 없다... -> 모든 경우의 수 탐색
